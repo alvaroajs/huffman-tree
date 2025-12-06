@@ -1,0 +1,66 @@
+=== TEXTO 1 ===
+Original: o computador executa instruções em alta velocidade e processa dados com precisão
+
+--- Tabela (Ordenada por Tamanho do Código) ---
+TOKEN           | FREQ  | CÓDIGO
+---------------------------------------------
+processa        | 1     | 000
+dados           | 1     | 001
+com             | 1     | 010
+precisão        | 1     | 011
+o               | 1     | 1000
+computador      | 1     | 1001
+executa         | 1     | 1010
+instruções      | 1     | 1011
+em              | 1     | 1100
+alta            | 1     | 1101
+velocidade      | 1     | 1110
+e               | 1     | 1111
+
+--- Texto Comprimido ---
+1000 1001 1010 1011 1100 1101 1110 1111 000 001 010 011
+
+=============================================
+=== TEXTO 2 ===
+Original: a memória armazena informações que são acessadas rapidamente pela CPU
+
+--- Tabela (Ordenada por Tamanho do Código) ---
+TOKEN           | FREQ  | CÓDIGO
+---------------------------------------------
+que             | 1     | 000
+são             | 1     | 001
+acessadas       | 1     | 010
+rapidamente     | 1     | 011
+pela            | 1     | 100
+cpu             | 1     | 101
+a               | 1     | 1100
+memória         | 1     | 1101
+armazena        | 1     | 1110
+informações     | 1     | 1111
+
+--- Texto Comprimido ---
+1100 1101 1110 1111 000 001 010 011 100 101
+
+=============================================
+=== TEXTO 3 ===
+Original: os sistemas operacionais controlam os recursos e coordenam as tarefas do processador
+
+--- Tabela (Ordenada por Tamanho do Código) ---
+TOKEN           | FREQ  | CÓDIGO
+---------------------------------------------
+as              | 1     | 000
+tarefas         | 1     | 001
+do              | 1     | 010
+processador     | 1     | 011
+os              | 2     | 100
+sistemas        | 1     | 1010
+operacionais    | 1     | 1011
+controlam       | 1     | 1100
+recursos        | 1     | 1101
+e               | 1     | 1110
+coordenam       | 1     | 1111
+
+--- Texto Comprimido ---
+100 1010 1011 1100 100 1101 1110 1111 000 001 010 011
+
+=============================================
