@@ -2,8 +2,6 @@
 
 Este projeto apresenta uma implementação prática do algoritmo de Huffman para compressão de texto sem perdas. O trabalho foi desenvolvido como parte da avaliação da disciplina de Algoritmos e Estruturas de Dados.
 
-**Autor:** Michel Pires
-**Data:** 06/12/2025
 
 ## 📋 Sobre o Projeto
 
@@ -23,7 +21,7 @@ O software lê um conjunto de frases, calcula a frequência das palavras e const
 
 1.  Clone o repositório:
     ```bash
-    git clone <URL_DO_SEU_REPO>
+    git clone https://github.com/alvaroajs/huffman-tree/
     cd huffman-tree
     ```
 
