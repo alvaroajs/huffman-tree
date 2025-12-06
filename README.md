@@ -60,5 +60,27 @@ Olá             | 1     | 00
 ,               | 1     | 01    <-- Veja a vírgula separada aqui!
 mundo           | 1     | 10
 !               | 1     | 11
+``` 
 
+# Considerações Finais
+
+Este projeto foi desenvolvido por Álvaro Silva como parte da disciplina Algoritmos e Estrutura de Dados II.
+Fico à disposição para dúvidas, sugestões ou colaborações. Sinta-se à vontade para entrar em contato!
+
+
+<a href="https://www.linkedin.com/in/alvarosilvamg/">
+  <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<p> </p>
+
+<a href="https://github.com/alvaroajs">
+  <img align="center" height="20px" width="90px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<p> </p>
+
+<a style="color:black" href="mailto:alvaro.ajsilva@gmail.com?subject=[GitHub]%20Source%20Dynamic%20Lists">
+✉️ <i>alvaro.ajsilva@gmail.com</i>
+</a>
 
