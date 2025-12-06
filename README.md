@@ -33,7 +33,7 @@ O projeto está organizado para ser fácil de ler e manter:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPO>
+    git clone https://github.com/alvaroajs/huffman-tree/
     cd huffman-tree
     ```
 
